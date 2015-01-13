@@ -4,25 +4,25 @@
 		<div class="slider">
 			<ul class="slider__wrapper">
 				<li class="slider__item"><img src="<?php echo get_template_directory_uri(); ?>/images/slide-top.jpg" alt="infographics on Vancouver"></li>
-				<li class="slider__item"><img src="<?php echo get_template_directory_uri(); ?>/images/slide-about.jpg" alt="SDNK Research Group"></li>
 			</ul>
 		</div>
-		<div class="info">
-			<ul class="icons">
-				<a href="https://www.facebook.com/pages/Urban-Traffic-Information/1492117827719190"><li class="icon"><i class="fa fa-facebook"></i></li></a>
-				<a href="http://instagram.com/urbantrafficinfo"><li class="icon"><i class="fa fa-instagram"></i></li></a>
-				<a href="https://www.youtube.com/user/urbantrafficvancity"><li class="icon"><i class="fa fa-youtube-play"></i></li></a>
-				<a href="https://twitter.com/UrbanTraffic1"><li class="icon"><i class="fa fa-twitter"></i></li></a>
-				<a href="https://plus.google.com/u/1/115349947726602540136/posts"><li class="icon"><i class="fa fa-google-plus-square"></i></li></a>
-			</ul>
 
-			<h3>Your opinion is more valuable than you think!
-				Join our social media discussion boards</h3>
-		</div>
+			<div class="info">
+				<ul class="icons">
+					<a href="https://www.facebook.com/pages/Urban-Traffic-Information/1492117827719190"><li class="icon"><i class="fa fa-facebook"></i></li></a>
+					<a href="http://instagram.com/urbantrafficinfo"><li class="icon"><i class="fa fa-instagram"></i></li></a>
+					<a href="https://www.youtube.com/user/urbantrafficvancity"><li class="icon"><i class="fa fa-youtube-play"></i></li></a>
+					<a href="https://twitter.com/UrbanTraffic1"><li class="icon"><i class="fa fa-twitter"></i></li></a>
+					<a href="https://plus.google.com/u/1/115349947726602540136/posts"><li class="icon"><i class="fa fa-google-plus-square"></i></li></a>
+				</ul>
+
+				<h1>– Urban Traffic Research Project by BCIT Students –
+					Think of better solution for transit system in Vancouver</h1>
+			</div>
 		<div class="main">
 			<div class="home-col movie">
 				<h2>Urban Traffic</h2>
-				<iframe width="100%" height="250px" src="//www.youtube.com/embed/4dLtp1RMwho" frameborder="0" allowfullscreen></iframe>
+				<iframe width="100%" height="300px" src="//www.youtube.com/embed/4dLtp1RMwho" frameborder="0" allowfullscreen></iframe>
 				<p>Greater Vancouver is one of the unique megacity in the world which urban city structure and beautiful natures are well balanced. Because of its attraction, the number of population is growing from 1,986,965 (2001) to 2,116,581 (2006) and more. Also number of cars is growing faster too. It makes more constructions on our roads.</p>
 			</div>
 			<div class="home-col case">
@@ -41,15 +41,6 @@
 					<section class="title">Urban Traffic in Mexico</section>
 					<section class="summary">Mexico City Metro is a rapid transit system serving the Greater Mexico City area in the Latin American country. It is the world's 8 busiest metro and North America's second largest rapid transit system. </section></a>
 				</article>
-			</div>
-			<div class="home-col links">
-				<h2>Links</h2>
-				<ul>
-					<li><a href="http://mic-ro.com/metro/index.html">Metrobits.org</a></li>
-					<li><a href="http://jalopnik.com/5958482/the-best-subway-systems-in-the-world">The Best Subway Systems In The World</a></li>
-					<li><a href="http://www.metrobus.df.gob.mx/index.html">Mexico Public Transit Metrobus</a></li>
-					<li><a href="http://www.urbanrail.net/">UrbanRail.Net</a></li>
-				</ul>
 			</div>
 		</div>
 	</div>

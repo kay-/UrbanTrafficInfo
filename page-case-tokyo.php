@@ -17,9 +17,9 @@
 				<div class="city-list">
 					<div class="line"></div>
 					<ul>
-						<li><a href="">Tokyo, Japan <img src="http://urbantraffic.info/case-tokyo/>/images/dot_green.png" alt="current page icon"></a></li>
-						<li><a href="">Seoul, S.Korea <img src="http://urbantraffic.info/case-seoul/>/images/dot_orange.png" alt="not current page icon"></a></li>
-						<li><a href="">Mexico City, Mexico <img src="http://urbantraffic.info/case-mexico/>/images/dot_orange.png" alt="not current page icon"></a></li>
+						<li><a href="">Tokyo, Japan <img src="<?php echo get_template_directory_uri(); ?>/images/dot_green.png" alt="current page icon"></a></li>
+						<li><a href="">Seoul, S.Korea <img src="<?php echo get_template_directory_uri(); ?>/images/dot_orange.png" alt="not current page icon"></a></li>
+						<li><a href="">Mexico City, Mexico <img src="<?php echo get_template_directory_uri(); ?>/images/dot_orange.png" alt="not current page icon"></a></li>
 
 					</ul>
 				</div>

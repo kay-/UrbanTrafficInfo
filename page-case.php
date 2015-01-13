@@ -23,21 +23,24 @@
 			<div class="case-col tokyo">
 				<article>
 					<h2>Tokyo, Japan</h2>
-					<p>Tokyo has been solving its problems in public transit by developing technologies and operations to sustain tens of million users, especially trains and subway.<a href="http://urbantraffic.info/case-tokyo">Read More</a></p>
+					<p>Tokyo has been solving its problems in public transit by developing technologies and operations to sustain tens of million users, especially trains and subway.</p>
+					<a href="http://urbantraffic.info/case-tokyo">Read More</a>
 				</article>
 			</div>
 
 			<div class="case-col seoul">
 				<article>
 					<h2>Seoul, S.Korea</h2>
-					<p>Seoul has a great urban public transportation system to handling about a million people per day. They have done massive upgrade in 2004. After then, the usage of the public transportation rate in Seoul increased 30%. Seoul public transportation uses lots of high technology from seatlight tracking to payment system.<a href="http://urbantraffic.info/case-seoul">Read More</a></p>
+					<p>Seoul has a great urban public transportation system to handling about a million people per day. They have done massive upgrade in 2004. After then, the usage of the public transportation rate in Seoul increased 30%. Seoul public transportation uses lots of high technology from seatlight tracking to payment system.</p>
+					<a href="http://urbantraffic.info/case-seoul">Read More</a>
 				</article>
 			</div>
 
 			<div class="case-col mexico">
 				<article>
 					<h2>Mexico City, Mexico</h2>
-					<p>Mexico City Metro is a rapid transit system serving the Greater Mexico City area in the Latin American country. It is the world's 8 busiest metro and North America's second largest rapid transit system. <a href="http://urbantraffic.info/case-mexico">Read More</a></p>
+					<p>Mexico City Metro is a rapid transit system serving the Greater Mexico City area in the Latin American country. It is the world's 8 busiest metro and North America's second largest rapid transit system. </p>
+					<a href="http://urbantraffic.info/case-mexico">Read More</a>
 				</article>
 			</div>
 

@@ -8,7 +8,6 @@
 		<div class="slider">
 			<ul class="slider__wrapper">
 				<li class="slider__item"><img src="<?php echo get_template_directory_uri(); ?>/images/slide-about.jpg" alt="SDNK Research Group"></li>
-				<li class="slider__item"><img src="<?php echo get_template_directory_uri(); ?>/images/slide-top.jpg" alt="infographics on Vancouver"></li>
 			</ul>
 		</div>
 

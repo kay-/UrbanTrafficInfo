@@ -12,7 +12,7 @@
 		<ul class="menu-list">
 			<li class="menu-item"><a href="http://urbantraffic.info/about">About</a></li>
 			<li class="menu-item"><a href="http://urbantraffic.info/case">Case Study</a></li>
-			<li class="menu-item"><a href="http://urbantraffic.info/blog">Blog</a></li>
+			<li class="menu-item"><a href="https://medium.com/@UrbanTraffic" target="_blank">Blog</a></li>
 			<li class="menu-item"><a href="http://urbantraffic.info/contact">Contact</a></li>
 		</ul>
 	</footer>
